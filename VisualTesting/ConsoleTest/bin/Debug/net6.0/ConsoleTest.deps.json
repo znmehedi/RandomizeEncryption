@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleTest/1.0.0": {
+        "dependencies": {
+          "znmehedi.util.RandomizeEncryption": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTest.dll": {}
+        }
+      },
+      "znmehedi.util.RandomizeEncryption/1.0.0": {
+        "runtime": {
+          "RandomizeEncryption.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "znmehedi.util.RandomizeEncryption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
