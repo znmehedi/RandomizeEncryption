@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\bin\Debug\net6.0\RandomizeEncryption.deps.json
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\bin\Debug\net6.0\RandomizeEncryption.dll
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\bin\Debug\net6.0\RandomizeEncryption.pdb
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.AssemblyInfo.cs
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.dll
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\refint\RandomizeEncryption.dll
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\RandomizeEncryption.pdb
+C:\Users\User\Desktop\Packages\RandomizeEncryption\RandomizeEncryption\RandomizeEncryption\obj\Debug\net6.0\ref\RandomizeEncryption.dll

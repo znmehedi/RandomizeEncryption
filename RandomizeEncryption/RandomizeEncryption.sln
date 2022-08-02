@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizeEncryption", "RandomizeEncryption\RandomizeEncryption.csproj", "{E352A290-B40E-4092-9321-FFFA1EFF68F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomizeEncryption", "RandomizeEncryption\RandomizeEncryption.csproj", "{E352A290-B40E-4092-9321-FFFA1EFF68F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VisualTesting", "VisualTesting", "{A548C5A7-8F32-46B4-A032-CFBC27260534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "..\VisualTesting\ConsoleTest\ConsoleTest.csproj", "{78047B6B-A4CA-43A8-B3D4-24EB5337B71F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{E352A290-B40E-4092-9321-FFFA1EFF68F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E352A290-B40E-4092-9321-FFFA1EFF68F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E352A290-B40E-4092-9321-FFFA1EFF68F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78047B6B-A4CA-43A8-B3D4-24EB5337B71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78047B6B-A4CA-43A8-B3D4-24EB5337B71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78047B6B-A4CA-43A8-B3D4-24EB5337B71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78047B6B-A4CA-43A8-B3D4-24EB5337B71F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{78047B6B-A4CA-43A8-B3D4-24EB5337B71F} = {A548C5A7-8F32-46B4-A032-CFBC27260534}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06646A5B-604E-49A7-94F3-F04E6D0F2C74}
